@@ -9,6 +9,7 @@ Welcome to Storytelling Framework's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
    opening
    storytelling
    demonstration
