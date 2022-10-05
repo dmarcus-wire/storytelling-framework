@@ -6,7 +6,10 @@
 Welcome to Storytelling Framework's documentation!
 ==================================================
 
+Contents
+--------
 .. toctree::
+   
    opening
    storytelling
    demonstration
