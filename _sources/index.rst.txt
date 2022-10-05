@@ -10,7 +10,7 @@ Welcome to Storytelling Framework's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   usage
 
 Indices and tables
 ==================
@@ -19,9 +19,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Contents
---------
-
-.. toctree::
-
-   usage
