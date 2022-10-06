@@ -9,7 +9,7 @@ Welcome to Storytelling Framework's documentation!
 Contents
 --------
 .. toctree::
-   
+   preparation
    opening
    storytelling
    demonstration
