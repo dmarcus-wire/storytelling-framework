@@ -1,16 +1,5 @@
-
-Best practices
---------------
-Content
-- Use first person
-- Use present tense
-- Share beginning, middle and end
-- Use bullet phrases
-- Use sensory language, images, sounds, etc.
-- Be succinct
-- Re-experience the event
-- Use emotional expression, describe feelings, sensations, leverage memories
-- Add vocal and physical variety
+Preparation
+===========
 
 Your topic 
 -----------
