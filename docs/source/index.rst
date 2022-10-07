@@ -7,6 +7,7 @@ Welcome to Storytelling Framework's documentation!
 ==================================================
 .. image:: storytelling.png
 
+.. image:: Storytelling_Framework.png 
 
 Contents
 --------
