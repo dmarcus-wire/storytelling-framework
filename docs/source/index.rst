@@ -7,6 +7,11 @@ Welcome to Storytelling Framework's documentation!
 ==================================================
 .. image:: storytelling.png
 
+Using this repository
+===================
+.. Using this site can be best dodne by git cloning or forking the repository
+   Edit the docs under the docs/source/{preparation, opening, storytelling, demonstration, conclusion}.rst pages   
+
 .. image:: Storytelling_Template.png 
 
 Content
