@@ -7,21 +7,5 @@ Welcome to Storytelling Framework's documentation!
 ==================================================
 .. image:: storytelling.png
 
-.. image:: Storytelling_Framework.png 
-
-Contents
---------
-.. toctree::
-   preparation
-   opening
-   storytelling
-   demonstration
-   closing 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. image:: Storytelling_Template.png 
 
