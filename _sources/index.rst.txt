@@ -22,4 +22,4 @@ Content
    opening
    storytelling
    demonstration
-   conclusion
+   closing
